@@ -11,4 +11,5 @@ function addTask(){
         listContainer.appendChild(li);
         
     }
+    inputBox.value = '';
 }
